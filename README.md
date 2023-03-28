@@ -28,3 +28,6 @@ You can customize the game by changing the following constants in main.py:
 - SCREEN_BACKGROUND_COLOR: the background color of the game screen (default is "black")
 - GAME_SPEED: the speed of the game (default is 0.1)
 
+# License
+This program is released under the [MIT LICENSE](https://opensource.org/license/mit/), which allows you to use, modify and distribute the code freely, as long as you include the original license notice and disclaimer.
+
