@@ -1,6 +1,8 @@
 # Snake Game README
 This is a simple implementation of the classic Snake game using Python and the Turtle module. In this game, the player controls a snake and the goal is to eat as much food as possible without colliding with the walls or the snake's own tail. The game ends when the snake collides with a wall or its own tail.
 
+![](snake_game.gif)
+
 # Getting Started
 ## Prerequisites
 To run this game, you need to have Python 3 installed on your machine.
